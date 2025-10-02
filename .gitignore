@@ -1,0 +1,26 @@
+# Compiled Java class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Presentations and reports
+*.pdf
+*.pptx
+
+# Ignore the mysql connector directory
+mysql-connector-j-9.4.0/
